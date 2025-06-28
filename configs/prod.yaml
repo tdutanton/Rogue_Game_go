@@ -1,0 +1,5 @@
+logger:
+  level: "prod"
+  output: "logs/prod.txt"
+width: 300
+height: 100

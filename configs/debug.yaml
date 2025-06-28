@@ -1,0 +1,5 @@
+logger:
+  level: "debug"
+  output: "logs/debug.txt"
+width: 300
+height: 100
