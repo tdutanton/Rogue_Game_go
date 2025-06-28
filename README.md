@@ -143,6 +143,10 @@ This ensures clear separation of concerns and testability.
 ```bash
 make
 ```
+**or if You don't have Makefile**
+```bash
+go run cmd/main.go
+```
 
 ---
 ## ⌨️ Controls  
