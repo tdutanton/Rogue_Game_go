@@ -114,17 +114,17 @@ This ensures clear separation of concerns and testability.
 ---
 
 ## 📁 Project Structure
-.
-├── cmd/                - Main application entry point
-├── configs/            - Configuration files
-├── internal/
-│   ├── adapters/       - Interface adapters
-│   │   ├── primary/    - Input handling
-│   │   └── secondary/  - Output (rendering) and storage
-│   ├── application/    - Application business rules
-│   ├── domain/         - Core business logic and entities
-│   └── services/       - Infrastructure services
-└── pkg/                - Shared utility packages
+.  
+├── cmd/                - Main application entry point  
+├── configs/            - Configuration files  
+├── internal/  
+│   ├── adapters/       - Interface adapters  
+│   │   ├── primary/    - Input handling  
+│   │   └── secondary/  - Output (rendering) and storage  
+│   ├── application/    - Application business rules  
+│   ├── domain/         - Core business logic and entities  
+│   └── services/       - Infrastructure services  
+└── pkg/                - Shared utility packages  
 
 ---
 
