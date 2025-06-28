@@ -1,5 +1,5 @@
 # 🏰 Rogue-like Dungeon Crawler Game
-[Anton Evgenev](https://t.me/tdutanton)
+[Anton Evgenev](https://t.me/tdutanton)  
 *A faithful recreation of the classic 1980 Rogue game with modern Go implementation*
 
 ![MainWindow](misc/main_screen.png)  
