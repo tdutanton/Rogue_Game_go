@@ -1,5 +1,5 @@
 # 🏰 Rogue-like Dungeon Crawler Game
-
+[Anton Evgenev](https://t.me/tdutanton)
 *A faithful recreation of the classic 1980 Rogue game with modern Go implementation*
 
 ![MainWindow](misc/main_screen.png)  
@@ -173,4 +173,6 @@ Load last session on restart.
 All attempts are recorded and shown in the leaderboard.
 
 ## 📄 Author
-- [Anton Evgenev](https://t.me/tdutanton) 2025
+- [Anton Evgenev](https://t.me/tdutanton)
+- with [Anna Sorokina](https://t.me/a_a_sorokina)
+2025
